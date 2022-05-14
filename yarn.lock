@@ -921,10 +921,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fontsource/hind@^4.1.0":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@fontsource/hind/-/hind-4.2.2.tgz#0c2f5e354bbd5543854f36b310cd37551c85ed0f"
-  integrity sha512-+2a/3lBwYIKZbmwcBWmkdPxFLwRej2cIWhPp00LD3p4BLxjM1cJiwNBOWmCT0xSlNDN0zpWX8IY25fiya5YDfA==
+"@fontsource/hind@^4.5.6":
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/hind/-/hind-4.5.8.tgz#3ef1d280ec617b5733af3da2c27bd4259cef09ef"
+  integrity sha512-5BVfi51MAu91yp5ZNBvKPC6tdDX4mPvJ/ONFSoDv/52//pamumiltWPIlSk7hQodF9tc05IRihHJAf6Qv9s0Ag==
 
 "@fontsource/montserrat@^4.1.0":
   version "4.2.2"
