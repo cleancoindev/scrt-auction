@@ -6403,10 +6403,10 @@ marked@^1.2.9:
   resolved "https://registry.yarnpkg.com/marked/-/marked-1.2.9.tgz#53786f8b05d4c01a2a5a76b7d1ec9943d29d72dc"
   integrity sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw==
 
-material-icons@^0.5.4:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/material-icons/-/material-icons-0.5.4.tgz#c9e8e89d93b1172ecb68090e368ee7b7bffecc9c"
-  integrity sha512-5ycazkNmIOtV78Ff3WgvxQESoJuujdRm0cNbf18fmyJN20jHyqp9rpwi4EfQyGimag0ZLElxtVg3H9enIKdOOw==
+material-icons@^0.7.7:
+  version "0.7.7"
+  resolved "https://registry.yarnpkg.com/material-icons/-/material-icons-0.7.7.tgz#10e67bc0a105d355469b12aa3cab1cf91a2b03e7"
+  integrity sha512-WzHzL+/QlcCRbF2aCElgv6r0ViRateatEQP/UOA502PitZNFF2BJIcGpzvJmMPShktkhhrLAFx+elDN7DcjXVQ==
 
 md5-file@^4.0.0:
   version "4.0.0"
