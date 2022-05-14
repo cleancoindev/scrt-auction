@@ -926,10 +926,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/hind/-/hind-4.2.2.tgz#0c2f5e354bbd5543854f36b310cd37551c85ed0f"
   integrity sha512-+2a/3lBwYIKZbmwcBWmkdPxFLwRej2cIWhPp00LD3p4BLxjM1cJiwNBOWmCT0xSlNDN0zpWX8IY25fiya5YDfA==
 
-"@fontsource/montserrat@^4.1.0":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.2.2.tgz#a1ad54b9302d6b840618fa1294fb4aec98e2b673"
-  integrity sha512-HnlV9Xim2mYa56Bz/UIO5r26Rq/DJWlYdMWTql+TE6n3yYMe8YV6dTwPzTbkr35IsyDq6cWy0rPert9MWyA2yA==
+"@fontsource/montserrat@^4.5.7":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.5.10.tgz#0dc94425c575c785c2ac92d244c543bfbb005080"
+  integrity sha512-JXe9wURwLFtPfrD3yYnfvue/Uv2L1iSEor4w6M5CcGO4iWSoaFgk7BPLUwksGD7ChKpGKpaNNLUt67VlCu2A1g==
 
 "@gridsome/cli@^0.3.4":
   version "0.3.4"
