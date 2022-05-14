@@ -7,7 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@fontsource/hind": "^4.1.0",
+    "@fontsource/hind": "^4.5.6",
     "@fontsource/montserrat": "^4.1.0",
     "@gridsome/vue-remark": "^0.2.6",
     "@lkmx/flare": "^0.3.25",
